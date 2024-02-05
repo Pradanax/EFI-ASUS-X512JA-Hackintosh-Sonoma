@@ -45,7 +45,6 @@ macOS | Sonoma 14.3
 
 * [acidanthera](https://github.com/acidanthera) (for OpenCore and the kexts)
 * [dortania](https://dortania.github.io/OpenCore-Install-Guide/) (for their awesome guide)
-* [jwise](https://github.com/jwise) (for HoRNDIS)
 * [VoodooI2C](https://github.com/VoodooI2C) (for VoodooI2C)
 * [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm) (for Intel WiFi)
 * our tester
