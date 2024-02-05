@@ -33,8 +33,8 @@ macOS | Sonoma 14.3
 - Intel Optane H10 (stock SSD)
     - Either change your SSD or use an external drive
         - If you are using an external drive, add `nvme=-1` to your boot-args to avoid kernel panics
--Webcam USB2.0 UVC WebCam
-    -Some vivobook series Firmware Webcam not supported 
+- Webcam USB2.0 UVC WebCam
+    - Some vivobook series Firmware Webcam not supported 
 
 ## BIOS settings
 
